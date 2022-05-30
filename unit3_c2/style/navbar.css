@@ -1,0 +1,24 @@
+
+#navbar{
+    width: 100%;
+    background-color: black;
+    padding: 15px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#nav_container{
+    width: 25%;
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover{
+    color: teal;
+    cursor: pointer;
+}
+
